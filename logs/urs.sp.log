@@ -1,0 +1,11 @@
+SourcePawn Compiler 1.9.0.6281
+Copyright (c) 1997-2006 ITB CompuPhase
+Copyright (c) 2004-2017 AlliedModders LLC
+
+urs.sp(724) : warning 203: symbol is never used: "GetStringTime"
+Code size:            30536 bytes
+Data size:             9664 bytes
+Stack/heap size:      16384 bytes
+Total requirements:   56584 bytes
+
+1 Warning.

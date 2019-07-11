@@ -1,0 +1,268 @@
+"Phrases"
+{
+	"About_Title"
+	{
+		"en"		"About Title"
+		"ru"		"[ Что такое URS? ]"
+	}
+	"About_Text"
+	{
+		"en"		"1234567890\n1234567890\n1234567890\n1234567890\n1234567890"
+		"ru"		"1234567890\n1234567890\n1234567890\n1234567890\n1234567890"
+	}
+	
+	"Players_Empty"
+	{
+		"en"	"Нет подходящих игроков"
+		"ru"	"Нет подходящих игроков"
+	}
+	"Players_NptConnected"
+	{
+		"en"	"[URS] Игрок вышел с севрера."
+		"ru"	"[URS] Игрок вышел с севрера."
+	}
+	
+	"URS_Title"
+	{
+		"#format"	"{1:i}"
+		"en"	"[ URS ]\nВаш рейтинг: {1}"	
+		"ru"	"[ URS ]\nВаш рейтинг: {1}"	
+	}	
+	"URS_About"
+	{
+		"en"	"Что такое URS?"	
+		"ru"	"Что такое URS?"
+	}
+	"URS_Report"
+	{
+		"en"	"Сообщить о нарушниии"	
+		"ru"	"Сообщить о нарушниии"	
+	}
+	"URS_Complaints"
+	{
+		"en"	"Мои жалобы на игроков"	
+		"ru"	"Мои жалобы на игроков"	
+	}
+	"URS_Violations"
+	{
+		"en"	"Мои нарушения"	
+		"ru"	"Мои нарушения"	
+	}
+	"URS_Rewards"
+	{
+		"en"	"Управление баллами [В Разработке]"	
+		"ru"	"Управление баллами [В Разработке]"	
+	}
+	
+	"ReportPlayers_Title"
+	{
+		"en"	"Отправить жалобу на игрока: "	
+		"ru"	"Отправить жалобу на игрока: "	
+	}
+	
+	"ReportAbuse_Title"
+	{
+		"en"	"Выберите нарушение: "
+		"ru"	"Выберите нарушение: "
+	}
+	
+	"ReportAbuse_Empty"
+	{
+		"en"	"Спсиок нарушений пуст"
+		"ru"	"Список нарушений пуст"
+	}
+	
+	"Confirm_Title"
+	{
+		"#format"	"{1:s}"
+		"en"	"Отправить жалобу на игрока {1} ?"
+		"ru"	"Отправить жалобу на игрока {1} ?"
+	}
+	"Confirm_Abuse"
+	{
+		"#format"	"{1:s}"
+		"en"	"Нарушение: {1}"
+		"ru"	"Нарушение: {1}"
+	}
+	"Confirm_Accept"
+	{
+		"en"	"Все верно"
+		"ru"	"Все верно"
+	}
+	"Confirm_Cancelled"
+	{
+		"en"	"Отменить, я ошибся"
+		"ru"	"Отменить, я ошибся"
+	}
+	
+	"Ticket_Title"
+	{
+		"#format"	"{1:s}"
+		"en"	"Информация о жалобе #{1}"
+		"ru"	"Информация о жалобе #{1}"
+	}
+	"Ticket_CID"
+	{
+		"#format"	"{1:s}"
+		"en"	"Нарушитель: {1}"
+		"ru"	"Нарушитель: {1}"
+	}
+	"Ticket_UID"
+	{
+		"#format"	"{1:s}"
+		"en"	"Отправитель: {1}"
+		"ru"	"Отправитель: {1}"
+	}
+	"Ticket_SendTime"
+	{
+		"#format"	"{1:s}"
+		"en"	"Время открытия: {1}"
+		"ru"	"Время открытия: {1}"
+	}
+	"Ticket_Status"
+	{
+		"#format"	"{1:t}"
+		"en"	"Статус заявки: {1}"
+		"ru"	"Статус заявки: {1}"
+	}
+	"Ticket_StatusDiscussed"
+	{ 
+		"en"	"Discussed"
+		"ru"	"Рассмотрена"
+	}
+	"Ticket_StatusPending"
+	{ 
+		"en"	"Pending"
+		"ru"	"Рассматривается"
+	}
+	"Ticket_AID"
+	{
+		"#format"	"{1:s}"
+		"en"	"Закрыта админом: {1}"
+		"ru"	"Закрыта админом: {1}"
+	}
+
+	"AlertTitle_Attention"
+	{
+		"en"	"Attention"
+		"ru"	"Внимание"
+	}
+	"AlertText_DataLoading"
+	{
+		"en"	"Ваши данные загружаются."
+		"ru"	"Ваши данные загружаются."
+	}
+	"AlertTitle_Notification"
+	{
+		"en"	"Notification"
+		"ru"	"Оповещение"
+	}
+	"AlertText_PlayerExited"
+	{
+		"en"	"The player exited the server."
+		"ru"	"Игрок вышел с сервера."
+	}
+	"AlertItem_BackToPlayers"
+	{
+		"en"	"Back to the list of players"
+		"ru"	"Вернуться к списку игроков"
+	}
+	"AlertText_Congratulate"
+	{
+		"en"	"Congratulate"
+		"ru"	"Поздравляем"
+	}
+	"AlertTitle_SystemError"
+	{
+		"en"	"System error!"
+		"ru"	"Системная ошибка!"
+	}
+	"AlertText_CmplaintNotSent"
+	{
+		"en"	"The complaint is not sent, report information to the administrator!"
+		"ru"	"Жалоба не отправлена, сообщите информацию администратору!"
+	}
+	"AlertText_ComplaintSent"
+	{
+		"en"	"The complaint has been successfully sent"
+		"ru"	"Жалоба успешно отправлена"
+	}
+	"AlertItem_ComplaintAbout"
+	{
+		"en"	"View information"
+		"ru"	"Посмотреть информацию"
+	}
+	"AlertText_TicketErrorLoading"
+	{
+		"en"	"Error loading information, please notify the administrator!"
+		"ru"	"Ошибка при загрузке информации, сообщите администратору!"
+	}
+	"AlertItem_GotoMainMenu"
+	{
+		"en"	"Main menu"
+		"ru"	"Главное меню"
+	}
+
+	"Rewards_MainTitle"
+	{
+		"#format"	"{1:i}"
+		"en"	"Your points: {1}\nManage points: "
+		"ru"	"Ваши баллы: {1}\nУправление баллами: "
+	}
+	"Rewards_Empty"
+	{
+		"en"	"No rewards"
+		"ru"	"Вознаграждений нет"
+	}
+	"Reward_Shop"
+	{
+		"en"	"Shop Credits"
+		"ru"	"Кредиты в шоп"
+	}
+	"Reward_Other"
+	{
+		"en"	"Module code"
+		"ru"	"Код модуля"
+	}
+	"Rewards_"
+	{
+		"en"	""
+		"ru"	""
+	}
+	"Rewards_"
+	{
+		"en"	""
+		"ru"	""
+	}
+	"Rewards_"
+	{
+		"en"	""
+		"ru"	""
+	}
+	"Rewards_"
+	{
+		"en"	""
+		"ru"	""
+	}
+	"Rewards_"
+	{
+		"en"	""
+		"ru"	""
+	}
+	"Rewards_"
+	{
+		"en"	""
+		"ru"	""
+	}
+
+	"Abuse_Cheater"
+	{
+		"en"	"Cheater"
+		"ru"	"Читер"
+	}
+	"Abuse_Other"
+	{
+		"en"	"Other"
+		"ru"	"Другое"
+	} 
+}
